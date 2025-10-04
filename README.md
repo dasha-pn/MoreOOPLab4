@@ -1,3 +1,3 @@
 # MoreOOPLab4
 
-### Thank you for SO interesting lab!
+### Thank you for SO interesting lab ...
